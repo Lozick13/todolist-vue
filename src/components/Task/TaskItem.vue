@@ -12,7 +12,7 @@
   </article>
 </template>
 
-<script lang="ts">
+<script>
 import TaskItemButtons from '@/components/Task/TaskItemButtons';
 import TaskItemInfo from '@/components/Task/TaskItemInfo';
 
